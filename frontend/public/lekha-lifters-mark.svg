@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Lekha Lifters</title>
+  <rect width="64" height="64" rx="14" fill="#f4b41a"/>
+  <path fill="#121820" d="M15 48h34v5H15zm4-8h8v8h-8zm21-9h5v17h-5zM24 18h19v5H24z"/>
+  <path fill="none" stroke="#121820" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" d="M22 18v22m1-17 18 10 8-7"/>
+  <path fill="none" stroke="#121820" stroke-linecap="round" stroke-width="4" d="M49 26v12c0 4-7 4-7 0v-2"/>
+</svg>
